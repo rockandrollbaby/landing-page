@@ -7,6 +7,7 @@ img {
 .logo {
   max-width: 70%;
   height: auto;
+  float: right;
 }
 
 .box  {
@@ -35,4 +36,16 @@ h3 {
 
 ul {
   list-style-type: none;
+}
+
+.copyright {
+  text-align: center;
+}
+
+figcaption {
+  color: purple;
+}
+
+span {
+  color: #f1dbd4d1;
 }
