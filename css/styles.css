@@ -9,8 +9,9 @@ img {
   height: auto;
 }
 
-.mug {
-  max-width: 50%;
-  height: auto;
-
+.box {
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
 }
