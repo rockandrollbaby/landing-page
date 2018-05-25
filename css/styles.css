@@ -9,13 +9,30 @@ img {
   height: auto;
 }
 
-.box {
-    width: 10px;
-    border: 10px solid green;
-    padding: 10px;
-    margin: 10px;
+.box  {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 18px;
+  background-color: #155415c9;
+  color: white;
 }
 
-h2 {
+.box2 {
+  margin: 31px;
+  border: 2px solid green;
+  padding: 8px;
+  background-color: beige;
+}
+
+.box3 {
+  margin: 3px;
+
+}
+
+h3 {
   text-align: center;
+}
+
+ul {
+  list-style-type: none;
 }
